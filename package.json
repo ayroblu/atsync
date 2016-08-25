@@ -1,0 +1,17 @@
+{
+  "name": "atsync",
+  "version": "1.0.0",
+  "description": "Syncs with at data regularly",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Lu",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.1.7",
+    "lodash": "^4.15.0",
+    "mongodb": "^2.2.8",
+    "node-fetch": "^1.6.0"
+  }
+}
